@@ -4,7 +4,7 @@ easyHWC ist ein Windows-Programm für den Hardware-Check in Arztpraxen: Es liest
 
 Hier liegt nur das fertige Programm, kein Quelltext.
 
-**Aktuelle Version: 1.0.3**
+**Aktuelle Version: 1.0.4**
 
 ## Immer die neueste Version
 
@@ -18,7 +18,7 @@ https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyH
 https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyHWC-Client.exe
 ```
 
-Dieselben Dateien gibt es auch mit Versionsnummer im Namen (`easyHWC-1.0.3.exe`, `easyHWC-Client-1.0.3.exe`) und die Lizenzhinweise (`Lizenzen.txt`) unter [Releases](https://github.com/JamilusBaktus/easyHWC-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
+Dieselben Dateien gibt es auch mit Versionsnummer im Namen (`easyHWC-1.0.4.exe`, `easyHWC-Client-1.0.4.exe`) und die Lizenzhinweise (`Lizenzen.txt`) unter [Releases](https://github.com/JamilusBaktus/easyHWC-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
 
 ## Start
 
