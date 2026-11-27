@@ -2,7 +2,7 @@
 
 Windows-Programm für eine Bestandsaufnahme der IT. Die Server-Version liest Server und Arbeitsplätze übers Netzwerk aus und erfasst die übrigen Geräte im Netz, etwa Router, Firewall und Drucker. Daraus entsteht nach einer Vorschau ein PDF mit Netzwerkplan und Prüfergebnissen je Gerät, zum Beispiel Windows-11-Tauglichkeit, Support-Ende und freier Speicherplatz.
 
-**Aktuelle Version: 1.2.3**
+**Aktuelle Version: 1.2.4**
 
 ## Download
 
