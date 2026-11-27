@@ -1,28 +1,19 @@
-# easyHWC – Download
+# easyHWC
 
-easyHWC ist ein Windows-Programm für den Hardware-Check in Arztpraxen: Es liest Server und PCs aus, durchsucht das Netz und erzeugt nach einer Vorschau ein PDF mit Netzwerkplan.
-
-Hier liegt nur das fertige Programm, kein Quelltext.
+Windows-Programm für eine Bestandsaufnahme der IT. Die Server-Version liest Server und Arbeitsplätze übers Netzwerk aus und erfasst die übrigen Geräte im Netz, etwa Router, Firewall und Drucker. Daraus entsteht nach einer Vorschau ein PDF mit Netzwerkplan und Prüfergebnissen je Gerät, zum Beispiel Windows-11-Tauglichkeit, Support-Ende und freier Speicherplatz.
 
 **Aktuelle Version: 1.2.2**
 
-## Immer die neueste Version
+## Download
 
-- **[easyHWC.exe herunterladen](https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyHWC.exe)** – Server-Version, auf dem Praxis-Server oder Hauptrechner starten.
-- **[easyHWC-Client.exe herunterladen](https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyHWC-Client.exe)** – nur für PCs, die die Server-Version nicht übers Netzwerk auslesen kann.
+- **[easyHWC.exe](https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyHWC.exe)** – Server-Version: auf dem Server oder einem Hauptrechner im Netz starten.
+- **[easyHWC-Client.exe](https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyHWC-Client.exe)** – nur für PCs, die die Server-Version nicht übers Netzwerk erreicht: auf den PC kopieren und starten.
 
-Feste Links, die immer auf die aktuelle Version zeigen (ohne Anmeldung):
-
-```
-https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyHWC.exe
-https://github.com/JamilusBaktus/easyHWC-download/releases/latest/download/easyHWC-Client.exe
-```
-
-Dieselben Dateien gibt es auch mit Versionsnummer im Namen (`easyHWC-1.2.2.exe`, `easyHWC-Client-1.2.2.exe`) und die Lizenzhinweise (`Lizenzen.txt`) unter [Releases](https://github.com/JamilusBaktus/easyHWC-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
+Die Links zeigen immer auf die neueste Version. Lizenzhinweise stehen unter [Releases](https://github.com/JamilusBaktus/easyHWC-download/releases/latest).
 
 ## Start
 
-- Je eine einzelne Datei, keine Installation.
-- Startet mit Adminrechten (Windows fragt nach).
-- Benötigt Windows 10/11 oder Windows Server 2016 und neuer (64 Bit) mit WebView2.
-- Die Server-Version prüft beim Start, ob es hier eine neuere Version gibt, und bietet sie zum Herunterladen an.
+- Eine einzelne Datei, keine Installation.
+- Windows 10/11 oder Windows Server 2016 und neuer (64 Bit), Adminrechte (Windows fragt nach).
+- Fehlt WebView2, bietet easyHWC die Installation an.
+- Die Server-Version meldet beim Start, wenn es eine neue Version gibt.
